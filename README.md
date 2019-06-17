@@ -1,2 +1,2 @@
 # 1m5-ring
-The Ring
+A decentralized metric-based reputational protocol.
